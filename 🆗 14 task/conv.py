@@ -1,4 +1,4 @@
-from string import printable
+from string import printable, ascii_lowercase
 
 #для основания <= 10
 def con(x, n):
